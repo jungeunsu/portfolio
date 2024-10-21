@@ -87,14 +87,14 @@ button {
   margin: 2px 4px;
   font-size: large;
   font-weight: bold;
-  background-color: lightgrey;
+  background-color: rgb(241, 243, 244);
   /* border-radius: 10px;
   border-width: 0px; */
 }
 
 button:hover {
-  color: red;
-  background-color: yellow;
+  color: white;
+  background-color: black;
 }
 
 @keyframes fadeIn {
